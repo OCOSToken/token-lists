@@ -1,0 +1,19 @@
+{
+  "name": "OCOS Token List",
+  "timestamp": "2025-05-30T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xa249ba073c01ceb65eafae7625d8f503c1f61c84",
+      "name": "OCOS",
+      "symbol": "OCOS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OCOSToken/token-lists/main/tokens/assets/0xa249ba073c01ceb65eafae7625d8f503c1f61c84/logo.png"
+    }
+  ]
+}
